@@ -83,7 +83,7 @@ Works on any static host: GitHub Pages, Netlify, Vercel, or Hostinger. Upload th
 
 - Email: sachinbhatt865@gmail.com
 - GitHub: [github.com/sachin-cyber904](https://github.com/sachin-cyber904)
-- LinkedIn: [ADD LINK]
+- LinkedIn: [https://www.linkedin.com/in/sachin-bhatt-004a3b34a]
 
 ## License
 
